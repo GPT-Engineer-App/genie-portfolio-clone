@@ -51,6 +51,10 @@ module.exports = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        genie: {
+          background: "#0f0f0f",
+          card: "#1a1a1a",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
